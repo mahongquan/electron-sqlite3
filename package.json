@@ -1,0 +1,28 @@
+{
+  "name": "electron-sqlite3",
+  "version": "1.0.0",
+  "description": "Example electron app with sqlite3 integration",
+  "repository": "https://github.com/bytheway/electron-sqlite3.git",
+  "main": "main.js",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {
+    "electron": "~1.8.2"
+  },
+  "keywords": [
+    "electron",
+    "atom",
+    "sqlite3"
+  ],
+  "bugs": {
+    "url": "https://github.com/bytheway/electron-sqlite3/issues"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ben Bytheway",
+  "contributors": [],
+  "license": "MIT"
+}
